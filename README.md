@@ -1,16 +1,18 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Banco utilizando recursos tecnológicos
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Exemplo de como o uso da tecnologia pode transformar o ambiente bancário.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Utilizei o ChatGPT.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Inseri um prompt de comando para que a IA retornasse uma imagem de atividades bancárias utilizando recursos tecnológicos.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Ela retornou uma imagem representando atividades bancárias modernas, com o uso de tecnologias avançadas, como quiosques digitais, telas holográficas e assistentes automatizados.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Achei muito interessante como a IA pode expandir os nossos horizontes e mudar nossas percepções.
+
+![Banco na era tecnologica](https://github.com/user-attachments/assets/3d86d6b5-b795-49e5-bff4-f59474911c00)
